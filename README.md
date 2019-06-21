@@ -21,7 +21,7 @@ there are many features in system and we are going to add more features, it requ
 
 - Design the models, db tables to support those Contents.
 - No other gems
-- Please use github and send us the link :)
+- Please use github and send us the PR to this repo :)
 
 ### Bonus points
 - Doing proper error handling, adding unit tests, and commenting your code.

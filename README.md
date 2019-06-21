@@ -27,3 +27,5 @@ there are many features in system and we are going to add more features, it requ
 - Doing proper error handling, adding unit tests, and commenting your code.
 - Add TODOs and FIXMEs in places where you cut a corner for expediency but know a production ready version would need refactoring, additional tests or handling of certain edge cases that you know or suspect to exist but don't handle yet.
 
+### NOTE
+We prepared for you models: company, employee, role.
